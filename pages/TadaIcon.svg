@@ -1,0 +1,12 @@
+<svg height="210" width="400">
+  <!-- Circle for the ball -->
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+  
+  <!-- Lines for the confetti -->
+  <line x1="50" y1="50" x2="90" y2="90" style="stroke:rgb(255,0,0);stroke-width:2" />
+  <line x1="50" y1="50" x2="10" y2="90" style="stroke:rgb(255,0,0);stroke-width:2" />
+  <line x1="50" y1="50" x2="90" y2="10" style="stroke:rgb(255,0,0);stroke-width:2" />
+  <line x1="50" y1="50" x2="10" y2="10" style="stroke:rgb(255,0,0);stroke-width:2" />
+  
+  <!-- Add more lines and shapes to make it look more like the 🎉 character -->
+</svg>
